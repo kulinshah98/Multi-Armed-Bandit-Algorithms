@@ -21,7 +21,7 @@ Python implementation of various Multi-armed bandit algorithms like Upper-confid
 
 | ------- | ----- | ----- |
 | Problem | Arm 1 | Arm 2 |
-| ------- | ----- | ----- |
+| ------- |:-----:|:-----:|
 |   P1    | 0.9   |   0.6 |
 |   P2    | 0.9   |   0.8 |
 |   P3    | 0.55  |   0.45|

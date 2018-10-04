@@ -19,10 +19,10 @@ Python implementation of various Multi-armed bandit algorithms like Upper-confid
 - To check effect of epsilon on Epsilon-greedy algorithm, I have run the epsilon-greedy algorithm for epsilon = 0.01, 0.1. 
 - Figures of following problem is given in `Figures/` folder.
 
-| ------- | ----- | ----- |
+
 | Problem | Arm 1 | Arm 2 |
 --- | --- | --- 
-|   P1    | 0.9   |   0.6 |
-|   P2    | 0.9   |   0.8 |
-|   P3    | 0.55  |   0.45|
+P1 | 0.9 | 0.6 
+P2 | 0.9 | 0.8 
+P3 | 0.55 | 0.45
 
